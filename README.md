@@ -34,3 +34,7 @@ The API manages "notes" (or memos) and demonstrates fundamental backend developm
 1. Open the project in **Visual Studio 2022**  
 2. Build and run the project (`Ctrl + F5`)  
 3. The API will start on:  
+
+
+## Demo Video  
+ [Watch Demo on Google Drive](https://drive.google.com/file/d/1nSVYVq_Vp4EauBRNafb9XY4sHmFC1aK_/view?usp=drive_link)
