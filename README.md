@@ -1,26 +1,25 @@
 # GoldenCity Backend Developer Test
 
 This project is a simple **CRUD API** built with **ASP.NET Core Web API (.NET 7)7
-## 📋 Overview
+ Overview
 
 The API manages "notes" (or memos) and demonstrates fundamental backend development skills such as RESTful design, clean code structure, and data handling using in-memory storage.
 
-### 🧩 Features
+ Features
 
 - Create a new note  
 - Retrieve all notes  
 - Retrieve a specific note by ID  
 - Update a note by ID  
 - Delete a note by ID  
-
-## ⚙️ Tech Stack
+ Tech Stack
 
 - **Language:** C#  
 - **Framework:** ASP.NET Core Web API (.NET 7)  
 - **Storage:** In-memory list (no database)  
 - **Tooling:** Visual Studio 2022  
 
-## 🚀 Endpoints
+ Endpoints
 
 | Method | Endpoint       | Description             |
 |--------|----------------|-------------------------|
@@ -30,7 +29,7 @@ The API manages "notes" (or memos) and demonstrates fundamental backend developm
 | PUT    | `/notes/{id}`  | Update note by ID       |
 | DELETE | `/notes/{id}`  | Delete note by ID       |
 
-## ▶️ How to Run
+ How to Run
 
 1. Open the project in **Visual Studio 2022**  
 2. Build and run the project (`Ctrl + F5`)  
